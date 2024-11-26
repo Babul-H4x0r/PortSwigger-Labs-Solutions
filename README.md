@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahan Uddin Babul</h1>
 <h3 align="center">Penetration Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babul-h4x0r&label=Profile%20views&color=0e75b6&style=flat" alt="babul-h4x0r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BabulSecX&label=Profile%20views&color=0e75b6&style=flat" alt="BabulSecX" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babul-h4x0r" alt="babul-h4x0r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BabulSecX" alt="BabulSecX" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
