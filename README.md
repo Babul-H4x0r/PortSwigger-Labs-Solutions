@@ -16,11 +16,26 @@
 
 
 
-# BabulScanner - Advanced Web Vulnerability Scanner  
+ ## BabulScanner 
+**BabulScanner** is an advanced Python-based tool for detecting **Remote Code Execution (RCE)** and **SQL Injection (SQLi)** vulnerabilities.  
 
-BabulScanner is an advanced Python-based web vulnerability scanner designed to detect **RCE** (Remote Code Execution) and **SQL Injection** vulnerabilities.  
+## Installation  
 
-## Features  
+```bash
+pip install git+https://github.com/BabulSecX/BabulScanner.git
+
+
+
+   ## Installation  
+1. Install Python 3.8+  
+2. Install required libraries:  
+   ```bash
+   pip install requests
+
+   
+
+
+  ## Features  
 - Detects RCE and SQL Injection vulnerabilities.  
 - WAF Bypass support.  
 - Custom payload file support.  
@@ -28,9 +43,6 @@ BabulScanner is an advanced Python-based web vulnerability scanner designed to d
 - Multi-threaded scanning for speed.  
 - HTTP Method support: GET, POST, PUT.  
 - JSON output for easy integration.  
+  
 
-## Installation  
-1. Install Python 3.8+  
-2. Install required libraries:  
-   ```bash
-   pip install requests
+
